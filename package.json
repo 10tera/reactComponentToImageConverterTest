@@ -9,14 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@hugocxl/react-to-image": "^0.0.9",
+    "jotai": "^2.8.0",
+    "next": "14.1.4",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "14.1.4"
+    "react-dom": "^18"
   },
   "devDependencies": {
-    "typescript": "^5",
     "@types/node": "^20",
     "@types/react": "^18",
-    "@types/react-dom": "^18"
+    "@types/react-dom": "^18",
+    "typescript": "^5"
   }
 }
